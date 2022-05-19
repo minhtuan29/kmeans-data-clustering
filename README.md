@@ -1,4 +1,4 @@
-# kmeans-clustering  
+# kmeans clustering. Mon hoc Khai Pha Du Lieu - Data Mining  
 
 ## data source (Elementary School):  
    https://www.jefferson.kyschools.us/data-book-2015-elementary  
@@ -9,5 +9,3 @@
 
 ## This is my school project, give me a start if it helps you
 ![thank-you-thanks-to-you](https://user-images.githubusercontent.com/86332370/169284332-0edd2f4d-6003-4a64-83a6-224eceb97d18.gif)
-## Subject name
-Khai pha du lieu - data mining
