@@ -1,4 +1,4 @@
-# kmeans clustering. Mon hoc Khai Pha Du Lieu - Data Mining  
+# kmeans clustering. Khai Pha Du Lieu - Data Mining  
 
 ## data source (Elementary School):  
    https://www.jefferson.kyschools.us/data-book-2015-elementary  
