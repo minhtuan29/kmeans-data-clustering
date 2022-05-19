@@ -8,5 +8,5 @@
 
 ## This is my school project, give me a start if it helps you
 ![thank-you-thanks-to-you](https://user-images.githubusercontent.com/86332370/169284332-0edd2f4d-6003-4a64-83a6-224eceb97d18.gif)
-## Subject
+## Subject name
 Khai pha du lieu - data mining
