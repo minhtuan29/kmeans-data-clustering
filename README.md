@@ -1,7 +1,6 @@
 # Kmeans Clustering. Data Mining  
 
 ## data source (Elementary School):  
-   https://www.jefferson.kyschools.us/data-book-2015-elementary  
 ![data](https://user-images.githubusercontent.com/86332370/169287527-54f480ec-7925-4d47-8fdf-ba2529889e63.PNG)
   
 ## Output  
